@@ -1,8 +1,9 @@
-## leaflet-challenge
-
-# Deployment Link
+# leaflet-challenge
 
 # Earthquake Visualization Tool
+
+## Deployment Link
+https://sophiatun.github.io/leaflet-challenge/
 
 # Description:
 This project aims to create a visualization tool for earthquake data and utilizes the USGS API to fetch real-time earthquake data. Ensure a stable internet connection for data retrieval. The tool will allow users to visualize earthquake occurrences around the world, providing insights into the frequency, magnitude, and location of seismic events.
